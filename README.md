@@ -31,9 +31,5 @@ Este projeto demonstra como integrar o **Authentik** como provedor de autentica√
 ```bash
 git clone https://github.com/seu-usuario/authentik-node-example.git
 cd authentik-node-example
-
-```bash
 yarn install && yarn dev
-
-```bash
 cp .env.template .env
